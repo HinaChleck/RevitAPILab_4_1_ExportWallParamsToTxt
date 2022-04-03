@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_4_1_ExportWallParamsToTxt.dll"</Assembly>
+		<AddInId>734493D6-68CA-461F-A4AA-0828385B46B9</AddInId>
+		<FullClassName>RevitAPILab_4_1_ExportWallParamsToTxt.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Экспорт типов стен в txt</Text>
+	</AddIn>
+</RevitAddIns>
+
